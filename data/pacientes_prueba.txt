@@ -1,0 +1,5 @@
+001;Juan perez; 25;Cardiologia
+002;Maria pepe; 67;Urgencias
+003;Pedro rojas; 43;Cirugia
+004;Ana rana; 12;Pediatria
+005;Luis diaz; 31;Traumatologia
