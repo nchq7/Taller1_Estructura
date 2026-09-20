@@ -37,7 +37,7 @@ int ListaPacientes::contarPacientes() {
 void ListaPacientes::mostrarPacientes() {
     Nodo* actual = cabeza;
     while (actual != nullptr) {
-        std::cout << " - " << actual->paciente.getNombre() << " (" << actual->paciente.getEdad() << " años)" << std::endl;
+        std::cout << " - " << actual->paciente.getNombre() << " (" << actual->paciente.getEdad() << " anios)" << std::endl;
         actual = actual->siguiente;
     }
 }
